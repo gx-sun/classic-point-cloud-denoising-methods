@@ -4,7 +4,8 @@
 1.移动最小二乘MLS
 
 基于PCL
-'''
+
+```
 #include "stdafx.h"
 
 
@@ -34,7 +35,8 @@ int main(int argc, char** argv)
 	// 保存结果
 	pcl::io::savePCDFile("bunny_hi_noise_mls.pcd", mls_points);
 }
-'''
+```
+
 2.双边滤波
 
 2.1基于PCL
