@@ -170,10 +170,12 @@ int main(int argc, char*argv[])
 安装CGAL可以参考：https://blog.csdn.net/Meet_csdn/article/details/110290766
 
 安装好后的工程文件是CGAL自带的，在文件夹example/Point_set_processing_3/wlop_simplify_and_regularize_point_set_example,运行结果如下：
+
 ![image](https://user-images.githubusercontent.com/42514510/145545864-543ce201-e99c-45ad-83df-f4bcae31bd8c.png)
 
 
 原始模型
+
 ![image](https://user-images.githubusercontent.com/42514510/145545894-e430b6c2-7cbf-4b61-8c6e-0719c1f3c274.png)
 
 去噪下采样后模型
@@ -202,15 +204,21 @@ ACM Transactions on Graphics (Proc. of ACM SIGGRAPH 2014), 33(4):47:1-47:13, Aug
 
 文章：Huang H, Wu S, Gong M, et al. Edge-aware point set resampling[J]. ACM transactions on graphics (TOG), 2013, 32(1): 1-12.
 
+
 6.PCN(point-clean-net)
+
 可以去除离群点和噪声点
 地址：https://github.com/mrakotosaon/pointcleannet
 
+
 7.TD(total denoising)
+
 第一篇点云无监督去噪方法，结果偏向平滑。
 地址：https://github.com/phermosilla/TotalDenoising
 
+
 8.Pointfilter
+
 目前SOTA，效果比较好,编码解码结构，简单有效
 地址：https://github.com/dongbo-BUAA-VR/Pointfilter
 
