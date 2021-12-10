@@ -208,18 +208,21 @@ ACM Transactions on Graphics (Proc. of ACM SIGGRAPH 2014), 33(4):47:1-47:13, Aug
 6.PCN(point-clean-net)
 
 可以去除离群点和噪声点
+
 地址：https://github.com/mrakotosaon/pointcleannet
 
 
 7.TD(total denoising)
 
 第一篇点云无监督去噪方法，结果偏向平滑。
+
 地址：https://github.com/phermosilla/TotalDenoising
 
 
 8.Pointfilter
 
 目前SOTA，效果比较好,编码解码结构，简单有效
+
 地址：https://github.com/dongbo-BUAA-VR/Pointfilter
 
 ​
