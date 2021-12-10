@@ -217,7 +217,7 @@ ACM Transactions on Graphics (Proc. of ACM SIGGRAPH 2014), 33(4):47:1-47:13, Aug
 第一篇点云无监督去噪方法，结果偏向平滑。
 
 地址：https://github.com/phermosilla/TotalDenoising
-
+复现细节版本：https://blog.csdn.net/Meet_csdn/article/details/119615049?spm=1001.2014.3001.5501
 
 8.Pointfilter
 
